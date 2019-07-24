@@ -11,5 +11,5 @@
 
 
 
-![](https://github.com/snowpero/resume/blob/master/image/boycottjp_1.png)
-![](https://github.com/snowpero/resume/blob/master/image/boycottjp_2.png)
+![](https://github.com/snowpero/resume/blob/master/image/boycottjp_1.png | width=160)
+![](https://github.com/snowpero/resume/blob/master/image/boycottjp_2.png | width=160)
