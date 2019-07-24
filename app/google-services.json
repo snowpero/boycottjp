@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "810296727655",
+    "firebase_url": "https://findboycottjapan.firebaseio.com",
+    "project_id": "findboycottjapan",
+    "storage_bucket": "findboycottjapan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810296727655:android:bdb8cb40d35361ea",
+        "android_client_info": {
+          "package_name": "com.ninis.findboycottjapan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810296727655-9jtfpoqd0cs4o4pn4mvohkjmebodmfer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpc1LN3xHicRMIz8KTuTFtqk-Vd8_HBdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810296727655-9jtfpoqd0cs4o4pn4mvohkjmebodmfer.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
